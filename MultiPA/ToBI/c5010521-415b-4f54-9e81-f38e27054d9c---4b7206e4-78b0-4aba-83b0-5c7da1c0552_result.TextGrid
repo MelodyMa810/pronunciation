@@ -1,0 +1,149 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.86 
+tiers? <exists> 
+size  = 2
+item []: 
+    item [1]:
+        class = "TextTier"
+        name = "tones"
+        xmin = 0 
+        xmax = 10.86
+        points: size = 17
+        points [1]:
+            number = 1.405
+            mark = "H*"
+        points [2]:
+            number = 1.9100000000000001
+            mark = "L*"
+        points [3]:
+            number = 2.65
+            mark = "L-L%"
+        points [4]:
+            number = 3.16
+            mark = "L-L%"
+        points [5]:
+            number = 3.91
+            mark = "L-L%"
+        points [6]:
+            number = 0
+            mark = "L*"
+        points [7]:
+            number = 4.475
+            mark = "H*"
+        points [8]:
+            number = 0
+            mark = "H*"
+        points [9]:
+            number = 4.885
+            mark = "!H*"
+        points [10]:
+            number = 5.645
+            mark = "L*"
+        points [11]:
+            number = 6.074999999999999
+            mark = "L*"
+        points [12]:
+            number = 6.41
+            mark = "L*"
+        points [13]:
+            number = 7.455
+            mark = "L*"
+        points [14]:
+            number = 8.65
+            mark = "L-L%"
+        points [15]:
+            number = 9.23
+            mark = "L*"
+        points [16]:
+            number = 10.129999999999999
+            mark = ""
+        points [17]:
+            number = 10.46
+            mark = "LH-"
+    item [2]:
+        class = "TextTier"
+        name = "breaks"
+        xmin = 0 
+        xmax = 10.86
+        points: size = 26
+        points [1]:
+            number = 1.21
+            mark = "1"
+        points [2]:
+            number = 1.71
+            mark = "2"
+        points [3]:
+            number = 2.07
+            mark = "1"
+        points [4]:
+            number = 2.65
+            mark = "4"
+        points [5]:
+            number = 3.16
+            mark = "4"
+        points [6]:
+            number = 3.91
+            mark = "4"
+        points [7]:
+            number = 4.22
+            mark = "1"
+        points [8]:
+            number = 4.58
+            mark = "1"
+        points [9]:
+            number = 4.78
+            mark = "1"
+        points [10]:
+            number = 5.04
+            mark = "1"
+        points [11]:
+            number = 5.42
+            mark = "1"
+        points [12]:
+            number = 5.93
+            mark = "1"
+        points [13]:
+            number = 6.34
+            mark = "1"
+        points [14]:
+            number = 6.43
+            mark = "1"
+        points [15]:
+            number = 6.98
+            mark = "1"
+        points [16]:
+            number = 7.15
+            mark = "1"
+        points [17]:
+            number = 7.26
+            mark = "1"
+        points [18]:
+            number = 7.76
+            mark = "2"
+        points [19]:
+            number = 7.96
+            mark = "1"
+        points [20]:
+            number = 8.13
+            mark = "1"
+        points [21]:
+            number = 8.41
+            mark = "1"
+        points [22]:
+            number = 8.65
+            mark = "4"
+        points [23]:
+            number = 9.29
+            mark = "1"
+        points [24]:
+            number = 9.9
+            mark = "1"
+        points [25]:
+            number = 10.46
+            mark = "3"
+        points [26]:
+            number = 10.86
+            mark = "1"
