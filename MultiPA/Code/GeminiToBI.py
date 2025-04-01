@@ -42,8 +42,8 @@ def call_gemini(textgrid_content):
     )
     return response
 
-file_list = get_file_list("/Users/melodyma/Desktop/Speech/MultiPA/ToBI")
-output_dir = "/Users/melodyma/Desktop/Speech/MultiPA/Gemini_ToBI"
+file_list = get_file_list("")
+output_dir = ""
 
 # Create output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
