@@ -1,0 +1,14 @@
+yes (L-L%)
+[SIL]
+it was really insightful (L-H%)
+[SIL]
+i (L*) learned a lot (L+H*) about (L*) how (H*+L) to (L*, LL-)
+[SIL]
+create (L-H%)
+[SIL]
+situatable projects (L*+H, L-H%)
+[SIL]
+that benefit (!H*) my (L-L%)
+[SIL]
+community (HL-)
+[SIL]

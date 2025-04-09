@@ -1,0 +1,24 @@
+no (L*) i don't think (H*+L, HL-)
+[SIL]
+it's a good (L+H*) idea (L*) because (L*) there (L*) are a (L-L%)
+[SIL]
+lot (L*) of people (!H*, L-L%)
+[SIL]
+on (L*) the social (L*) network (H*) and they can (L-L%)
+[SIL]
+speak (H*) some (H-L%)
+[SIL]
+bad (H*) words towards (L*) you (L*, L-L%)
+[SIL]
+and (L*) some (L*) people might commit (!H*, L-L%)
+[SIL]
+suicide (L*) because (H*+L, H-L%)
+[SIL]
+of (L*) those (L*, L-L%)
+[SIL]
+bad (L-L%)
+[SIL]
+words (L-L%)
+[SIL]
+and (L*) i (L*) think (L*) it's not (L*) a good idea () to always share (L+H*) everything (H*+L) on the social network (L*+H, LH-)
+[SIL]

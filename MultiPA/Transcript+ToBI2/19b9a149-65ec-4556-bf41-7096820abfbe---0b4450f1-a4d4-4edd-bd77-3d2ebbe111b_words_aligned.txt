@@ -1,0 +1,32 @@
+no (H-L%)
+[SIL]
+i'm (L*) not (H*) usually true (L-L%)
+[SIL]
+but (L-L%)
+[SIL]
+i (H*) will share (L*, L-L%)
+[SIL]
+my (L-H%)
+[SIL]
+feelings (!H*) with (!H*) my (L-L%)
+[SIL]
+childhood (L-L%)
+[SIL]
+friend (L-L%)
+[SIL]
+and (L-L%)
+[SIL]
+we are (L-L%)
+[SIL]
+same (LL-)
+[SIL]
+as (H*) we (!H*) have (L-L%)
+[SIL]
+same (L*) hobby (H*, LL-)
+[SIL]
+we (L*) are same (H*) as (L-L%)
+[SIL]
+we (L*) have same (L*, L-L%)
+[SIL]
+hobby (LL-)
+[SIL]

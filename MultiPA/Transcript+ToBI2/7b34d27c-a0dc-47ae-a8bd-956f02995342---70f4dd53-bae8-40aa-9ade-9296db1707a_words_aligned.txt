@@ -1,0 +1,25 @@
+i (H*) think (L-L%)
+[SIL]
+visiting (L*) the zoo is (H*+L) very meaningful (L*) we can see many () animals (H*+L, H-L%)
+[SIL]
+for (L-L%)
+[SIL]
+grammar (L*) and learn (L*) a lot (L*, L-L%)
+[SIL]
+about (!H*) animals (L*) such as (L-L%)
+[SIL]
+maybe (L*) you can see (H*, L-L%)
+[SIL]
+the (L-L%)
+[SIL]
+panda (L*) eating (L*, L-L%)
+[SIL]
+bamboos (L-H%)
+[SIL]
+tiger eating (!H*, L-L%)
+[SIL]
+meat (H-L%)
+[SIL]
+is (!H*) very (L*) useful (!H*, L-L%)
+[SIL]
+i (L*) think (L*)

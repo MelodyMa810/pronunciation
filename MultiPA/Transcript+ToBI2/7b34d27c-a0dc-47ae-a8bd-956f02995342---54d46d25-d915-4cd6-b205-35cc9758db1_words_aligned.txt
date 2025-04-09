@@ -1,0 +1,14 @@
+i (L*) often go (H*+L) to the zoo (L*) i (L*) think (L*) the zoo is a very interesting (H*) place (L*, L-L%)
+[SIL]
+and (LL-)
+[SIL]
+i (L-L%)
+[SIL]
+went (L-L%)
+[SIL]
+to the (LL-)
+[SIL]
+zoo (L-L%)
+[SIL]
+once (L*) a week (L*) now (HL-)
+[SIL]

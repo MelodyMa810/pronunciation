@@ -1,0 +1,20 @@
+no (!H*) i don't (L*) want to start a small (L*) business (L*) in (L-H%)
+[SIL]
+future (L*) because (L*, L-L%)
+[SIL]
+it's (H*) too (H*) tired (L*) for (L*) me (L-L%)
+[SIL]
+i (H*) know (L*) the people in small (L*) business (!H*, LL-)
+[SIL]
+they (L*) woke (L*) up (L*) very (L*, L-L%)
+[SIL]
+early (L-L%)
+[SIL]
+and they need to (!H*, L-L%)
+[SIL]
+go (L*) to different (L*) places (H*) to (L-L%)
+[SIL]
+sell (L*) their (L*) products (L*+H, L-H%)
+[SIL]
+and (L*) it's quite hard (L*) for me (L+H*, LH-)
+[SIL]

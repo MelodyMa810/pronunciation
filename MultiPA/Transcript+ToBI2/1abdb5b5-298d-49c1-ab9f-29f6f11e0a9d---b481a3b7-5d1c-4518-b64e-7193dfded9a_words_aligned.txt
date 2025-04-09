@@ -1,0 +1,19 @@
+i think (L*) visiting (H*) the (LL-)
+[SIL]
+zoo (!H*) is (L*) very meaningful (H-L%)
+[SIL]
+we can see many animals (!H*, L-L%)
+[SIL]
+felines (!H*) and there are a lot (!H*) of other (L*) animals (H*+L, HL-)
+[SIL]
+just (!H*) like (L*, L-L%)
+[SIL]
+a panda (L*, LL-)
+[SIL]
+eats the bamboo (L*, L-L%)
+[SIL]
+and a (LL-)
+[SIL]
+tiger (L*) eats the meat (L+H*, L-H%)
+[SIL]
+it's very (!H*) interesting (L*) i think (L*)

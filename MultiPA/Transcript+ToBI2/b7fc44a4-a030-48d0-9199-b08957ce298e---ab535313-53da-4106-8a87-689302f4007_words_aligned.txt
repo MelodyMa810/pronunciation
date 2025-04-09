@@ -1,0 +1,13 @@
+maybe (H*+L) my appearance (H*+L, HL-)
+[SIL]
+i'm (L*) thinking (H*+L) about (H*+L, H-L%)
+[SIL]
+keeping long hair (H*+L, H-L%)
+[SIL]
+well (L*) because i've been (L*) i've (H*, L-L%)
+[SIL]
+kept (L*) my (L*) hair short (L-L%)
+[SIL]
+for like about ten (!H*) years (, L-H%)
+[SIL]
+well (L+H*) it's good (H*) to make some change

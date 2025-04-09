@@ -1,0 +1,26 @@
+for species (L-L%)
+[SIL]
+animals (L-L%)
+[SIL]
+i (H*+L) think (L*, LL-)
+[SIL]
+it's need (L*) to (!H*) set (H*) up natural (L-L%)
+[SIL]
+survives (L-H%)
+[SIL]
+it (L-L%)
+[SIL]
+can (L*) be (L-L%)
+[SIL]
+good (L-L%)
+[SIL]
+with (L-H%)
+[SIL]
+them (L-L%)
+[SIL]
+and (L-L%)
+[SIL]
+protect (L*) them (LL-)
+[SIL]
+well (L-L%)
+[SIL]

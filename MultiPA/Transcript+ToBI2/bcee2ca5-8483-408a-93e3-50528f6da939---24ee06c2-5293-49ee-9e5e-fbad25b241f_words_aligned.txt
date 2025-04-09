@@ -1,0 +1,28 @@
+yes (H-L%)
+[SIL]
+of course (H*+L, H-L%)
+[SIL]
+parents (L*) always (L-L%)
+[SIL]
+promise (!H*) children (L-L%)
+[SIL]
+such (L*) as (L-L%)
+[SIL]
+if (L-L%)
+[SIL]
+you (H*+L) can get (!H*) a (LL-)
+[SIL]
+high (H*) grade (L*, L-L%)
+[SIL]
+i'll (L-H%)
+[SIL]
+i'll (L-L%)
+[SIL]
+buy (L-L%)
+[SIL]
+a new (!H*) toy (L-L%)
+[SIL]
+for (H-L%)
+[SIL]
+you (L-L%)
+[SIL]

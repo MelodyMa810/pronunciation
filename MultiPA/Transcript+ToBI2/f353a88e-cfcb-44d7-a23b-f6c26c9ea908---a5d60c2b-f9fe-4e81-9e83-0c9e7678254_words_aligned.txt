@@ -1,0 +1,18 @@
+hmm i don't (H-L%)
+[SIL]
+quite (L-H%)
+[SIL]
+know (L-L%)
+[SIL]
+about (L*) da (L*) vinci (L*, L-L%)
+[SIL]
+but (L-L%)
+[SIL]
+i (L-H%)
+[SIL]
+do (L-L%)
+[SIL]
+know (L*) about (L*) michelangelo (H-L%)
+[SIL]
+do (!H*) you (!H*) know (L*) him (L-L%)
+[SIL]

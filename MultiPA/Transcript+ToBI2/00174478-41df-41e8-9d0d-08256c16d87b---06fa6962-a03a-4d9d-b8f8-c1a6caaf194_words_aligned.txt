@@ -1,0 +1,20 @@
+yeah (H*+L) of course (H-L%)
+[SIL]
+when (!H*) i (L+H*) was (H*+L) in primary (L*) school (L-L%)
+[SIL]
+i (LL-)
+[SIL]
+attended (L*) music (L*) and (L*) singing (L-L%)
+[SIL]
+class (L-L%)
+[SIL]
+my music (H*+L, H-L%)
+[SIL]
+teacher is (H-L%)
+[SIL]
+a very (!H*) nice madam (L*, L-L%)
+[SIL]
+she (H*+L) told () me (LL-)
+[SIL]
+how to sing (L+H*, LH-)
+[SIL]

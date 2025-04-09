@@ -1,0 +1,11 @@
+for pilots (H*) flying (L*) over (L-L%)
+[SIL]
+rural (L-L%)
+[SIL]
+america (L-L%)
+[SIL]
+a string (H*) of red (!H*) lights flashing (L*) along (L*) the (L*) horizon is a warning (L*) that there might be (L-L%)
+[SIL]
+a (L*) wind farm (, LH-)
+[SIL]
+ahead

@@ -1,0 +1,18 @@
+Y AE1 (L-L%)
+[SIL]
+F R AH1 (L*) M T AY1 M T AH0 T AY1 (!H*) M (L-L%)
+[SIL]
+AE1 F T ER0 (L-L%)
+[SIL]
+AY1 F IH1 (L*) N IH0 SH M AY1 (L*) JH AA1 (H*) B (L-L%)
+[SIL]
+AO1 R W ER1 (L+H*) K (L-H%)
+[SIL]
+AE1 N D L AY1 (H*) IH0 NG (L-L%)
+[SIL]
+AA1 N M AY1 (L*) B EH1 (H*) D (L-L%)
+[SIL]
+AY1 (L*) W IH1 L (L-L%)
+[SIL]
+L IH1 (!H*) S AH0 N T UW1 (L*) S AH1 M AH1 V (L-L%)
+[SIL]

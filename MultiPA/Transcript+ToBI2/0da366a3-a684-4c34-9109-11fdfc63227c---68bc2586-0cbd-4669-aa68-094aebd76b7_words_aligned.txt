@@ -1,0 +1,21 @@
+depends (L-L%)
+[SIL]
+i mean it depends (!H*, L-L%)
+[SIL]
+on (L*) what (L*) i'm looking (H*+L) for (L+H*, L-H%)
+[SIL]
+if i'm (L*) going to buy (L*, L-L%)
+[SIL]
+like (L*) a phone or (L*) computer (L*+H, L-H%)
+[SIL]
+i would definitely (H*+L) choose big ones (L*, L-L%)
+[SIL]
+because (H-L%)
+[SIL]
+the (L-L%)
+[SIL]
+quality (L*) of the product (H-L%)
+[SIL]
+is more (L*) reliable (L*+H, LH-)
+[SIL]
+for sure (L*)

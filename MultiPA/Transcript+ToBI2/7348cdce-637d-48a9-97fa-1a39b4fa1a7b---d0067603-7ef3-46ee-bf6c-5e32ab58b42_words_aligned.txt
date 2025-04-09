@@ -1,0 +1,14 @@
+maybe i (L*) like (L*) to sit (L*) on (L+H*) the place (H*) that is (L-L%)
+[SIL]
+cool (L*) because i don't like (L*) the (H-L%)
+[SIL]
+hot (L*) place (H*+L) and (L*) very (L*) cold (L*) place (!H*) so (L*, LL-)
+[SIL]
+maybe (L-L%)
+[SIL]
+i (L*) will (L*) find (L*, L-L%)
+[SIL]
+a cool (!H*) place (L*) to sit (L-L%)
+[SIL]
+that's all (L-L%)
+[SIL]

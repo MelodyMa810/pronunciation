@@ -1,0 +1,12 @@
+M EY1 B IY0 (LL-)
+[SIL]
+AH0 (HL-)
+[SIL]
+K AA1 F IY0 SH AA1 (L+H*) P (L-H%)
+[SIL]
+AO1 (!H*) R S AH1 (L*) M R EH1 S T ER0 AA2 N T S (H-L%)
+[SIL]
+AY1 (H*) L AY1 (H*+L) K T UW1 HH AE1 (L*) V D IH1 (L*) N ER0 (L-L%)
+[SIL]
+AO1 (L*) R HH AE1 (L*) V L AH1 (H*) N CH W IH1 (L*) TH M AY1 F R EH1 (L*) N Z (LL-)
+[SIL]

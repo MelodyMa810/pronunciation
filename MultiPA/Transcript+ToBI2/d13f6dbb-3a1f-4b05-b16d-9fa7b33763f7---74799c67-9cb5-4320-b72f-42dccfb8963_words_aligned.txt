@@ -1,0 +1,18 @@
+yeah (L-L%)
+[SIL]
+from (L*) time to time (!H*, L-L%)
+[SIL]
+after (L-L%)
+[SIL]
+i finish (L*) my (L*) job (H*, L-L%)
+[SIL]
+or work (L+H*, L-H%)
+[SIL]
+and lying (H*, L-L%)
+[SIL]
+on my (L*) bed (H*, L-L%)
+[SIL]
+i (L*) will (L-L%)
+[SIL]
+listen (!H*) to (L*) some of (L-L%)
+[SIL]

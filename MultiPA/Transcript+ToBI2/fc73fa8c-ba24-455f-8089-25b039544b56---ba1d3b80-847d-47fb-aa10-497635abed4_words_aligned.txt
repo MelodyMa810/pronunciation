@@ -1,0 +1,14 @@
+yes (L-L%)
+[SIL]
+i (!H*) am (H*) capable (H*+L) of fixing simple things such (L*) as a leaky (L*) faucet (L*+H, L-H%)
+[SIL]
+or (L*) a blown faucet (H*, L-L%)
+[SIL]
+fuse (L-L%)
+[SIL]
+however (!H*) for (L*) more complex (!H*) issues (L-L%)
+[SIL]
+i (!H*) will seek (!H*) the help () of a professional (L*+H) to ensure (L*) the problem is properly (L-L%)
+[SIL]
+resolved (LL-)
+[SIL]

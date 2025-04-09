@@ -1,0 +1,22 @@
+i arrange (L*) my daily activities (L*+H) according (L*+H) to (H-L%)
+[SIL]
+my (H-L%)
+[SIL]
+own (L*) schedule (L*+H, L-H%)
+[SIL]
+for example (H-L%)
+[SIL]
+i (L*) always (L*) work (L*) out (L*) in the morning (L*+H, L-H%)
+[SIL]
+and (L*) i do (L*) all (!H*) my (H*, LL-)
+[SIL]
+assignments (L*+H) for study (L*+H, L-H%)
+[SIL]
+in the afternoon (H-L%)
+[SIL]
+at (H*) night (L-H%)
+[SIL]
+i (L*) hang out (L*) with friends (L*+H, L-H%)
+[SIL]
+and (L*) shop (H*, LL-)
+[SIL]

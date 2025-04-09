@@ -1,0 +1,32 @@
+i'm (L-L%)
+[SIL]
+an (L-L%)
+[SIL]
+active person (L*+H, LH-)
+[SIL]
+and (H*) i (H*) enjoy (L*) playing (L-L%)
+[SIL]
+a variety (L*+H) of sports (L*, L-L%)
+[SIL]
+one (L*) of (L-L%)
+[SIL]
+my favorite (L*+H) sports (HL-)
+[SIL]
+to play (!H*) is (LL-)
+[SIL]
+basketball (L-H%)
+[SIL]
+as (L-L%)
+[SIL]
+it (H*) is (LL-)
+[SIL]
+a great (L*) way (L*, LL-)
+[SIL]
+to stay fit (!H*, L-L%)
+[SIL]
+and (L*) socialize (H*, LL-)
+[SIL]
+with friends (H*+L, H-L%)
+[SIL]
+at (L*) the same (L*) time (H*, LL-)
+[SIL]

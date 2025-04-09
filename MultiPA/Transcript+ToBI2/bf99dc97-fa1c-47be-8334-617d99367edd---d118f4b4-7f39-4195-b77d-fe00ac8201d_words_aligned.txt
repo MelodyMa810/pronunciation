@@ -1,0 +1,22 @@
+adults (L-L%)
+[SIL]
+need (H*) to (L*) be (L*) busy (!H*) on (L-L%)
+[SIL]
+their (L*) work (L+H*, L-H%)
+[SIL]
+and (L*) the children (H*) need (LL-)
+[SIL]
+to study (L*) more (L*, L-L%)
+[SIL]
+on (L*) weekends (L-L%)
+[SIL]
+so (H*) i (L*) think (L*) they (L*) do (!H*, L-L%)
+[SIL]
+not (H*) have (L*) enough time (L-L%)
+[SIL]
+to (L-L%)
+[SIL]
+do (L*) another (L*) activity (L-L%)
+[SIL]
+together (LL-)
+[SIL]

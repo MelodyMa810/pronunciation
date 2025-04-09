@@ -1,0 +1,12 @@
+maybe (LL-)
+[SIL]
+a (HL-)
+[SIL]
+coffee shop (L+H*, L-H%)
+[SIL]
+or (!H*) some (L*) restaurants (H-L%)
+[SIL]
+i (H*) like (H*+L) to have (L*) dinner (L*, L-L%)
+[SIL]
+or (L*) have (L*) lunch (H*) with (L*) my friends (L*, LL-)
+[SIL]

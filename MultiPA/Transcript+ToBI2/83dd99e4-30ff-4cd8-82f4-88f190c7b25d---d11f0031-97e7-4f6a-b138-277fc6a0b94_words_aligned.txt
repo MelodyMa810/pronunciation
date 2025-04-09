@@ -1,0 +1,16 @@
+well (L-L%)
+[SIL]
+i don't (L+H*) know (H*) who (H*+L) told (H*+L) you that i'm a social worker (L-H%)
+[SIL]
+because i'm (L+H*) not (L+H*, L-H%)
+[SIL]
+but (L*) i (L*) do (H*) respect (L*) social workers (L-L%)
+[SIL]
+because (L*) i think () they (L*) make (L*) important (L*) contributions (L*+H) to the society (L-H%)
+[SIL]
+and help (H*) those who (H*) are (L*, L-L%)
+[SIL]
+marginalized (H-L%)
+[SIL]
+and (L*) disadvantaged (L*, LL-)
+[SIL]

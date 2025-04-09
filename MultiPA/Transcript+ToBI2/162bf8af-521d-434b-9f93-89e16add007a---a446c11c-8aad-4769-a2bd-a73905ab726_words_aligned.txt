@@ -1,0 +1,14 @@
+yes (L-L%)
+[SIL]
+i (L-L%)
+[SIL]
+can (L*) learn (L*) a lot (H*) of music (L-L%)
+[SIL]
+per day (L-H%)
+[SIL]
+like 20 or 30 songs (L*, L-L%)
+[SIL]
+at most () of (H*+L) them at the (L-L%)
+[SIL]
+same (!H*) time (L*, LL-)
+[SIL]

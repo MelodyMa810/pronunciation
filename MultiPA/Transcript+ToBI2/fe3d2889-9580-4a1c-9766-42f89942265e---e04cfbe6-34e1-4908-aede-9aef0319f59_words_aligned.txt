@@ -1,0 +1,18 @@
+yes i (!H*) have (H*) some (L*) knowledge (L*) about the stars (L-L%)
+[SIL]
+i (L-L%)
+[SIL]
+have (H*) watched (!H*) like (L*) a lot of youtube videos about (L*, L-L%)
+[SIL]
+stars (L-L%)
+[SIL]
+and about (L*) galaxies (L*, L-L%)
+[SIL]
+and (L-L%)
+[SIL]
+generally (L-L%)
+[SIL]
+generally (L-L%)
+[SIL]
+about (L*) space (L*, LL-)
+[SIL]
