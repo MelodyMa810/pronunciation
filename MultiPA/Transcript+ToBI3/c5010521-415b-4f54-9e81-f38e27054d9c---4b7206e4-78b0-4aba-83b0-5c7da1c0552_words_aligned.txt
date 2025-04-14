@@ -1,0 +1,11 @@
+for pilots (*) flying (*) over (%)
+[SIL]
+rural (%)
+[SIL]
+america (%)
+[SIL]
+a string (*) of red (*) lights flashing (*) along (*) the (*) horizon is a warning (*) that there might be (%)
+[SIL]
+a (*) wind farm (--, --)
+[SIL]
+ahead

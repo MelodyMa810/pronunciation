@@ -1,0 +1,14 @@
+i (*) often go (*) to the zoo (*) i (*) think (*) the zoo is a very interesting (*) place (*, %)
+[SIL]
+and (--)
+[SIL]
+i (%)
+[SIL]
+went (%)
+[SIL]
+to the (--)
+[SIL]
+zoo (%)
+[SIL]
+once (*) a week (*) now (--)
+[SIL]

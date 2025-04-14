@@ -1,0 +1,21 @@
+depends (%)
+[SIL]
+i mean it depends (*, %)
+[SIL]
+on (*) what (*) i'm looking (*) for (*, %)
+[SIL]
+if i'm (*) going to buy (*, %)
+[SIL]
+like (*) a phone or (*) computer (*, %)
+[SIL]
+i would definitely (*) choose big ones (*, %)
+[SIL]
+because (%)
+[SIL]
+the (%)
+[SIL]
+quality (*) of the product (%)
+[SIL]
+is more (*) reliable (*, --)
+[SIL]
+for sure (*)

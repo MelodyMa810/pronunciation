@@ -1,0 +1,14 @@
+yes (%)
+[SIL]
+i (*) am (*) capable (*) of fixing simple things such (*) as a leaky (*) faucet (*, %)
+[SIL]
+or (*) a blown faucet (*, %)
+[SIL]
+fuse (%)
+[SIL]
+however (*) for (*) more complex (*) issues (%)
+[SIL]
+i (*) will seek (*) the help (--) of a professional (*) to ensure (*) the problem is properly (%)
+[SIL]
+resolved (--)
+[SIL]

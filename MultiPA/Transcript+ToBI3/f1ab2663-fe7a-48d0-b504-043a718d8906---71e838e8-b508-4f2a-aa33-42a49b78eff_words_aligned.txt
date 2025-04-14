@@ -1,0 +1,22 @@
+well (%)
+[SIL]
+every (%)
+[SIL]
+afternoon (--)
+[SIL]
+i (*) would (*, %)
+[SIL]
+eat (*) snacks (%)
+[SIL]
+just like (*) a (%)
+[SIL]
+little (*) chocolate (*) cake (*, %)
+[SIL]
+or (*) chocolate cookies (*) with (*, %)
+[SIL]
+a simple (*) coffee (*, %)
+[SIL]
+like (%)
+[SIL]
+americano (--)
+[SIL]

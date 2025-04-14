@@ -1,0 +1,32 @@
+no (%)
+[SIL]
+i'm (*) not (*) usually true (%)
+[SIL]
+but (%)
+[SIL]
+i (*) will share (*, %)
+[SIL]
+my (%)
+[SIL]
+feelings (*) with (*) my (%)
+[SIL]
+childhood (%)
+[SIL]
+friend (%)
+[SIL]
+and (%)
+[SIL]
+we are (%)
+[SIL]
+same (--)
+[SIL]
+as (*) we (*) have (%)
+[SIL]
+same (*) hobby (*, --)
+[SIL]
+we (*) are same (*) as (%)
+[SIL]
+we (*) have same (*, %)
+[SIL]
+hobby (--)
+[SIL]

@@ -1,0 +1,32 @@
+i'm (%)
+[SIL]
+an (%)
+[SIL]
+active person (*, --)
+[SIL]
+and (*) i (*) enjoy (*) playing (%)
+[SIL]
+a variety (*) of sports (*, %)
+[SIL]
+one (*) of (%)
+[SIL]
+my favorite (*) sports (--)
+[SIL]
+to play (*) is (--)
+[SIL]
+basketball (%)
+[SIL]
+as (%)
+[SIL]
+it (*) is (--)
+[SIL]
+a great (*) way (*, --)
+[SIL]
+to stay fit (*, %)
+[SIL]
+and (*) socialize (*, --)
+[SIL]
+with friends (*, %)
+[SIL]
+at (*) the same (*) time (*, --)
+[SIL]

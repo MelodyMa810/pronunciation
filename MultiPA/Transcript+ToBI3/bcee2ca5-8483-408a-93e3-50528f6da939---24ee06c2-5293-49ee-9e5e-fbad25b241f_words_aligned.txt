@@ -1,0 +1,28 @@
+yes (%)
+[SIL]
+of course (*, %)
+[SIL]
+parents (*) always (%)
+[SIL]
+promise (*) children (%)
+[SIL]
+such (*) as (%)
+[SIL]
+if (%)
+[SIL]
+you (*) can get (*) a (--)
+[SIL]
+high (*) grade (*, %)
+[SIL]
+i'll (%)
+[SIL]
+i'll (%)
+[SIL]
+buy (%)
+[SIL]
+a new (*) toy (%)
+[SIL]
+for (%)
+[SIL]
+you (%)
+[SIL]

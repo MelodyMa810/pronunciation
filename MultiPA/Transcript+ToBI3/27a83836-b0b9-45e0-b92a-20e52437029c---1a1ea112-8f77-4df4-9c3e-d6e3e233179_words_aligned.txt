@@ -1,0 +1,12 @@
+maybe (--)
+[SIL]
+a (--)
+[SIL]
+coffee shop (*, %)
+[SIL]
+or (*) some (*) restaurants (%)
+[SIL]
+i (*) like (*) to have (*) dinner (*, %)
+[SIL]
+or (*) have (*) lunch (*) with (*) my friends (*, --)
+[SIL]

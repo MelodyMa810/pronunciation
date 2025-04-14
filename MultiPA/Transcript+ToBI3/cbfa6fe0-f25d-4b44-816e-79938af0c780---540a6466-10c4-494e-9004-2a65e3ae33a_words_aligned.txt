@@ -1,0 +1,14 @@
+yes (%)
+[SIL]
+i (*) support (*) you (*, %)
+[SIL]
+and i (*) think (*) chinese (*, %)
+[SIL]
+must be (*, %)
+[SIL]
+the (--)
+[SIL]
+best (%)
+[SIL]
+in the world (--, %)
+[SIL]

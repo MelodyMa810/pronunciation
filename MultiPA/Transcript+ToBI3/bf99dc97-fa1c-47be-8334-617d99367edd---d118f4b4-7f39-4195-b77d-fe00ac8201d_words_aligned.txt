@@ -1,0 +1,22 @@
+adults (%)
+[SIL]
+need (*) to (*) be (*) busy (*) on (%)
+[SIL]
+their (*) work (*, %)
+[SIL]
+and (*) the children (*) need (--)
+[SIL]
+to study (*) more (*, %)
+[SIL]
+on (*) weekends (%)
+[SIL]
+so (*) i (*) think (*) they (*) do (*, %)
+[SIL]
+not (*) have (*) enough time (%)
+[SIL]
+to (%)
+[SIL]
+do (*) another (*) activity (%)
+[SIL]
+together (--)
+[SIL]

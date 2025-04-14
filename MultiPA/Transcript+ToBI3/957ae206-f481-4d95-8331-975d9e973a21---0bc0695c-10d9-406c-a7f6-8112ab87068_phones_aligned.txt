@@ -1,0 +1,8 @@
+spn Y IH1 (*) R Z OW1 (*) L D AH0 G EH1 N (%)
+[SIL]
+AH0 B AW1 T spn (%)
+[SIL]
+Y IH1 R Z (%)
+[SIL]
+OW1 L D (%)
+[SIL]

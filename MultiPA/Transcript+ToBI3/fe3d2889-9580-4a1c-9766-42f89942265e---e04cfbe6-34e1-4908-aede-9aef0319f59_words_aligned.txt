@@ -1,0 +1,18 @@
+yes i (*) have (*) some (*) knowledge (*) about the stars (%)
+[SIL]
+i (%)
+[SIL]
+have (*) watched (*) like (*) a lot of youtube videos about (*, %)
+[SIL]
+stars (%)
+[SIL]
+and about (*) galaxies (*, %)
+[SIL]
+and (%)
+[SIL]
+generally (%)
+[SIL]
+generally (%)
+[SIL]
+about (*) space (*, --)
+[SIL]
