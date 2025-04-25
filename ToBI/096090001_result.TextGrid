@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.945 
+tiers? <exists> 
+size  = 2
+item []: 
+    item [1]:
+        class = "TextTier"
+        name = "tones"
+        xmin = 0 
+        xmax = 11.945
+        points: size = 10
+        points [1]:
+            number = 0.825
+            mark = "L*"
+        points [2]:
+            number = 1.2
+            mark = "L-L%"
+        points [3]:
+            number = 2.0949999999999998
+            mark = "L*"
+        points [4]:
+            number = 2.685
+            mark = "L*"
+        points [5]:
+            number = 2.73
+            mark = "L-L%"
+        points [6]:
+            number = 4.11
+            mark = "L-L%"
+        points [7]:
+            number = 5.615
+            mark = "H*"
+        points [8]:
+            number = 5.695
+            mark = "H*"
+        points [9]:
+            number = 5.8149999999999995
+            mark = "L*"
+        points [10]:
+            number = 6.45
+            mark = "L-L%"
+    item [2]:
+        class = "TextTier"
+        name = "breaks"
+        xmin = 0 
+        xmax = 11.945
+        points: size = 10
+        points [1]:
+            number = 0.78
+            mark = "1"
+        points [2]:
+            number = 0.84
+            mark = "1"
+        points [3]:
+            number = 1.2
+            mark = "4"
+        points [4]:
+            number = 2.67
+            mark = "1"
+        points [5]:
+            number = 2.73
+            mark = "4"
+        points [6]:
+            number = 4.11
+            mark = "4"
+        points [7]:
+            number = 5.63
+            mark = "1"
+        points [8]:
+            number = 5.77
+            mark = "1"
+        points [9]:
+            number = 5.83
+            mark = "1"
+        points [10]:
+            number = 6.45
+            mark = "4"
